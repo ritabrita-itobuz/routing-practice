@@ -1,5 +1,4 @@
 var express = require('express');
-// import * as express from 'express';
 var app= express();
 
 const port = 8081;

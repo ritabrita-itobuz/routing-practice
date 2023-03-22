@@ -12,7 +12,7 @@ var PORT = 3000;
 // Creating a POST request
 app.post('/api', (req, res) => {
    console.log("Method called is -- ", req.method)
-   res.end("bjhbhjbjhbjhbjhb");
+   res.end("post done");
 })
 
 // App listening on the below port
